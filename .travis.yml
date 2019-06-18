@@ -10,4 +10,4 @@ script:
 matrix:
   include:
   - jdk: oraclejdk8
-    scala: 2.12.4
+    scala: 2.12.8
